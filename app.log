@@ -1,0 +1,2 @@
+root - WARNING - This message gets logged as warning.
+root - ERROR - Python raised an error
